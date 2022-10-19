@@ -14,4 +14,6 @@
     <img alt="HTML5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
-Apaixonado pelo mundo da tecnologia e pela forma que ela muda o mundo.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Costa-2l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Apaixonado pelo mundo da tecnologia e pela forma que ela transforma o mundo.
