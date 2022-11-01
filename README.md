@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Costa-2l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Apaixonado pelo mundo da tecnologia e pela forma que ela transforma o mundo.
+Apaixonado pelo mundo da tecnologia e pela forma que ela transforma o mundo. I'm starting and i'll not stop.
