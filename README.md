@@ -19,3 +19,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Costa-2l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado pelo mundo da tecnologia e pela forma que ela transforma o mundo. I'm starting and i'll not stop.
+
+Eu não sou o melhor, mas entendi que a cada mês que passa comigo estudando programação, eu fico melhor e consigo contruir coisas que antes nem sabia que seria capaz de fazer.
