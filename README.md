@@ -20,4 +20,4 @@
 
 Apaixonado pelo mundo da tecnologia e pela forma que ela transforma o mundo. I'm starting and i'll not stop.
 
-Eu não sou o melhor, mas entendi que a cada mês que passa comigo estudando programação, eu fico melhor e consigo contruir coisas que antes nem sabia que seria capaz de fazer.
+Eu não sou o melhor, mas entendi que a cada mês que passa comigo estudando programação, eu fico melhor e consigo contruir coisas que antes nem sabia que seria capaz de fazer...
