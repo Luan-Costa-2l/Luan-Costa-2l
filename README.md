@@ -13,11 +13,10 @@
     <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Costa-2l&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Apaixonado pelo mundo da tecnologia e pela forma que ela transforma o mundo. I'm starting and i'll not stop.
 
-Eu não sou o melhor, mas entendi que a cada mês que passa comigo estudando programação, eu fico melhor e consigo contruir coisas que antes nem sabia que seria capaz de fazer.
+Durante meus estudos tive/tenho muitas frustações, mas com o tempo percebi que a cada mês que se passa eu estou melhor nisso, agora fiquei curioso em como estarei daqui a um ano.😃💻
